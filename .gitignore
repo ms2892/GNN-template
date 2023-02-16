@@ -1,2 +1,5 @@
 Introduction/cora-dataset/
 GAT/data/
+GAE/data/
+GAE/runs/
+GAE/.ipynb_checkpoints/
